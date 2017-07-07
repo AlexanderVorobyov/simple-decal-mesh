@@ -1,5 +1,7 @@
 
-# Simple Decal Mesh (Experimental/Beta)
+> <b>This repository is deprecated and not recommended to use this work for any purpose.</b>
+
+# Simple Decal Mesh (Legacy)
 
 - [About](#about)
 - [Example usage](#showcase)
